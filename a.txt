@@ -1,2 +1,3 @@
 this is a.txt file
 cnma
+又cnm了一次
